@@ -1,3 +1,12 @@
+#generated neural network files
+NeuralNetwork.txt
+
+# Eclipse Folders and files
+.project
+.cproject
+.settings/
+Debug/
+
 # Compiled Object files
 *.slo
 *.lo
