@@ -10,7 +10,7 @@ You are strongly encouraged to try to do your implementation on your own. As I s
 
 ## Currently implemented
 ### Back-propagation neural network
-The input and output were generated from set of monochromatic bitmap that represents the numbers (1, 3, 9). 
+The input and output were generated from several monochromatic bitmaps that represent the numbers (1, 3, 9). 
 
 The output (0 0 1) represents 1
 
