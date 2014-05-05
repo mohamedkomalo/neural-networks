@@ -15,7 +15,9 @@ The input and output were generated from set of monochromatic bitmap that repres
 The output (0 0 1) represents 1
 
 The output (0 1 0) represents 3
+
 The output (1 0 0) represents 9
+
 The test file uses the same data from the train file. You can remove some of the data from the train file and only test on these data.
 
 # Warning
